@@ -8,9 +8,9 @@ A simple and reusable ADC (Analog-to-Digital Converter) driver for the AVR ATmeg
 
 ## Author
 
-**Youssef Tamer**
+**Youssef Amr**
 
-GitHub: https://github.com/Yousseftamer883-droid
+GitHub: https://github.com/YoussefAmr10-droid
 
 ---
 
